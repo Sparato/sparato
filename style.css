@@ -1,0 +1,96 @@
+body {
+ 
+ 	color: black;
+
+}
+
+h1 {
+
+	font-family: "Calibri",  serif;
+	font-weight: bolder;
+	
+	text-align: center;
+
+}
+
+
+ul	{
+
+ line-height: 50px;
+ margin-bottom: -15px;
+ background-color: black;
+
+ text-align: center;
+
+}
+
+li {
+
+	font-size: 30px;
+	font-family: "Calibri",  sans-serif;
+	font-weight: bolder;
+	display: inline-block;
+
+}
+
+a {
+
+	margin-right: 30px;
+	margin-left: 30px;
+	color: #fff;
+	text-decoration: none;
+
+}
+
+a:hover {
+
+	padding: 10px;
+
+	transition: 0.5s;
+	margin-right: 30px;
+	margin-left: 30px;
+
+	color: white;
+	text-decoration: none;
+
+}
+
+li:hover {
+
+	background-color: red;
+	transition: 1s;
+
+
+}
+
+.search {
+
+	text-align: center;
+	border-bottom: 3px solid black;
+	margin-bottom: -20px;
+}
+
+
+.search input[type="text"] {
+
+	font-family: "Calibri",  sans-serif;
+	font-size: 20px;
+	text-align: center;
+
+	height: 30px;
+	width: 300px;
+	margin-left: 20px;
+
+
+}
+
+.search input[type="submit"] {
+
+	font-size: 20px;
+	font-family: "Calibri",  sans-serif;
+ 	text-align: center;
+	height: 35px;
+	width: 75px;
+
+}
+

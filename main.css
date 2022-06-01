@@ -1,0 +1,237 @@
+
+
+
+.totle {
+
+	background: #BDB76B;
+	padding: 5px;
+	text-align: center;
+
+}
+
+
+body {
+
+	background: #FFEFD5;
+
+}
+
+h1 a {
+
+	text-decoration: none;
+	color: white;
+
+}
+
+h1 a:hover {
+
+	text-decoration: none;
+	color: grey;
+	transition: 0.5s;
+
+}
+
+
+
+
+h1 {
+
+	text-align: center;
+	font-family: "Calibri", serif;
+	font-weight: bolder;
+	color: white;
+
+	padding-bottom: 3px;
+	background: black;
+
+}
+
+h3	{
+
+	font-weight: bolder;
+	font-size: 30px;
+
+}
+
+.container {
+
+	font-family: "Calibri", serif;
+
+}
+
+.carousel-inner div img{
+
+	border: 1px solid black;
+    
+}
+
+.col-md-4 {
+ 
+
+ 	left: -30px;
+	display: inline block;
+	padding: 20px;
+	margin-top: 10px;
+	background: #FFE4B5;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+.title {
+
+	background: #BDB76B;
+	padding: 5px;
+
+}
+
+.text {
+
+	border-right: 3px solid #BDB76B;
+
+	padding-top: 0px;
+	font-size: 18px;
+
+	display: block;
+	text-decoration: none;
+
+}
+
+
+
+
+
+
+.main-menu {
+
+	margin-top: 10px;
+
+}
+
+
+.col-md-8 {
+
+	padding-top:10px;
+	margin-top: 10px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+	background: #FFE4B5;
+
+
+}
+
+.info {
+	font-family: "Calibri" sans-serif;
+ 	background: #D2691E;
+ 	padding-left: 10px;
+ 	padding-bottom: 0px;
+ 	font-size: 18px;
+
+}
+
+.col-md-7 div[class="text"]{
+
+	padding-left: 20px;
+
+}
+
+.col-md-7 div[class="text"] {
+
+	border: none;
+
+}
+
+.main {
+
+	border-bottom: 10px solid #FFE4B5;
+
+}
+
+.col-md-5 div[class="image"]{
+
+
+
+}
+
+
+
+section {
+
+	padding-bottom: 30px;
+
+}
+
+nav ul {
+
+	list-style-type: none;
+	line-height: 2em;
+	padding: 0;
+
+
+}
+
+nav ul li a {
+
+	color: grey;
+	font-size: 2em;
+	padding: 1px 1px;
+	display: block;
+	border-bottom: 3px solid #BDB76B;
+	margin-bottom: 3px;
+
+	text-decoration: none;
+
+}
+
+nav ul li a:hover {
+
+	border-radius: 10px;
+	background-color: grey;
+	color: #fff;
+
+	text-decoration: none;
+	transition: 0.5s;
+
+}
+
+.btn-danger {
+
+	border-color: #B8860B;
+	background-color: #B8860B;
+
+}
+
+.btn-danger:hover {
+
+	background-color: #DC143C;
+
+}
+
+
+.string-bot {
+
+	height: 10px;
+	
+	width: 338px;
+
+	padding: -5px;
+
+}
+
+.mb-3 label[class="form-label"] {
+
+
+	margin-top: -5px;
+	border-top: 2px solid black;
+	font-weight: bolder;
+
+
+
+}
+
+img	{
+
+	width: 100%;
+	border-color: black 1px solid;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+
+
+}
